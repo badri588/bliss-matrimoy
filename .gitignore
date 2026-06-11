@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+build/
+web-build/
+android/build/
+ios/build/
+target/
+
+.env
+.env.*
+*.log
+
+.vscode/
+.idea/
+.DS_Store
+all-matrimony/uploads/
